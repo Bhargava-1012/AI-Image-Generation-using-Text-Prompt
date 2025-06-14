@@ -1,0 +1,1 @@
+This project focuses on generating AI images from text prompts using the Clipdrop API, featuring a user-friendly interface with various web pages like the home page, credits page, login, and result page. It utilizes MERN Stack Development, with MongoDB handling backend logic, database interactions, and processing user requests.
